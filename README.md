@@ -4,7 +4,7 @@ This repository showcases my completed virtual job simulations through Forage wi
 
 🔧 Platform & Organizations
 
-- 🌐 Platform: "Forage" (https://www.theforage.com/)
+- 🌐 Platform: "Forage" 
 - 🏦 Bank of America — Investment Banking Job Simulation
 - 📊 Goldman Sachs — Controllers Job Simulation
 - 💼 Ryan — Transaction Tax Consulting Job Simulation
