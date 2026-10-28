@@ -59,6 +59,12 @@ Key Tasks & Skills
 - Professional communication
 - Analytical thinking and problem-solving
 
+🎯 Learning Objectives
+- Gain practical exposure to finance-related professional tasks.
+- Understand how financial concepts are applied to business scenarios.
+- Strengthen analytical, accounting, and problem-solving skills.
+- Build a foundation for future opportunities in finance and business management.
+
 🚀 Future Plans
 
 - Develop discounted cash flow (DCF) valuation projects.
@@ -72,4 +78,3 @@ I am Chandu, an MBA student interested in finance, financial analysis, accountin
 
 ---
 
-Disclaimer: These are educational virtual job simulations completed through Forage. They do not represent employment or internships with the respective organizations.
